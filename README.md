@@ -1,2 +1,2 @@
 # IMG-wijzigingsprotocol
-IM-Geo wijzigingsprotocol
+Wijzigingsprotocol Informatiemodel Geluid
